@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "name": "random-number-test-package",
+  "description": "",
+  "author": "Yuta Sugimura",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/typescript/index.d.ts",
+  "files": [
+    "/src",
+    "/lib",
+    "/README.md",
+    "/LICENSE"
+  ],
+  "scripts": {
+    "build": "rimraf ./lib && tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "typescript": "^4.7.2"
+  }
+}
