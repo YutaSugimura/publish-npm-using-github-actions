@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/YutaSugimura/publish-npm-using-github-actions/compare/v1.1.0...v1.2.0) (2022-06-01)
+
+
+### Features
+
+* add commitlint & husky ([7850e4c](https://github.com/YutaSugimura/publish-npm-using-github-actions/commit/7850e4c3fe5726cb319f344248202ecdab52973f))
+
 ## [1.1.0](https://github.com/YutaSugimura/publish-npm-using-github-actions/compare/v1.0.0...v1.1.0) (2022-06-01)
 
 
