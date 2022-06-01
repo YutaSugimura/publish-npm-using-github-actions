@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/YutaSugimura/publish-npm-using-github-actions/compare/v1.0.0...v1.1.0) (2022-06-01)
+
+
+### Features
+
+* add function ([bbe834f](https://github.com/YutaSugimura/publish-npm-using-github-actions/commit/bbe834f79c22164eef000bca896b28cf9ff97050))
+
 ## 1.0.0 (2022-06-01)
 
 
